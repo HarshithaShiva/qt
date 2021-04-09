@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-08T11:33:39 IST" name="Default suite" finished-at="2021-04-08T11:33:44 IST" duration-ms="5271">
+    <groups>
+    </groups>
+    <test started-at="2021-04-08T11:33:39 IST" name="Default test" finished-at="2021-04-08T11:33:44 IST" duration-ms="5271">
+      <class name="MyNewProjectAPI.TwitterAPI.FiveListAllTheUsers">
+        <test-method is-config="true" signature="Bsuite()[pri:0, instance:MyNewProjectAPI.TwitterAPI.FiveListAllTheUsers@2beee7ff]" started-at="2021-04-08T11:33:38 IST" name="Bsuite" finished-at="2021-04-08T11:33:39 IST" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bsuite -->
+        <test-method signature="ListUsers()[pri:0, instance:MyNewProjectAPI.TwitterAPI.FiveListAllTheUsers@2beee7ff]" started-at="2021-04-08T11:33:39 IST" name="ListUsers" finished-at="2021-04-08T11:33:44 IST" duration-ms="5228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListUsers -->
+      </class> <!-- MyNewProjectAPI.TwitterAPI.FiveListAllTheUsers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
